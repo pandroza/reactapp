@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pandroza/reactapp.git/static/css/main.073c9b0a.css",
+    "main.js": "/pandroza/reactapp.git/static/js/main.97aa90b9.js",
+    "static/js/787.22c43ede.chunk.js": "/pandroza/reactapp.git/static/js/787.22c43ede.chunk.js",
+    "static/media/logo.svg": "/pandroza/reactapp.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pandroza/reactapp.git/index.html",
+    "main.073c9b0a.css.map": "/pandroza/reactapp.git/static/css/main.073c9b0a.css.map",
+    "main.97aa90b9.js.map": "/pandroza/reactapp.git/static/js/main.97aa90b9.js.map",
+    "787.22c43ede.chunk.js.map": "/pandroza/reactapp.git/static/js/787.22c43ede.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97aa90b9.js"
+  ]
+}
